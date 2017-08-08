@@ -1,8 +1,9 @@
 {
   "name": "jquery-weekpicker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A weekpicker addon for jQueryUI datepicker",
-  "main": "src/jquery.weekpicker.js",
+  "main": "./src/jquery.weekpicker.js",
+  "types": "./jquery.weekpicker.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zskovacs/jquery-weekpicker.git"
@@ -33,6 +34,7 @@
   },
   "homepage": "https://github.com/Prezent/jquery-weekpicker#readme",
   "dependencies": {
-    "jquery-ui": "^1.10"
+    "jquery-ui": "^1.10",
+    "@types/jqueryui": "^1.11.32"
   }
 }
