@@ -1,0 +1,38 @@
+{
+  "name": "jquery-weekpicker",
+  "version": "1.0.3",
+  "description": "A weekpicker addon for jQueryUI datepicker",
+  "main": "src/jquery.weekpicker.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zskovacs/jquery-weekpicker.git"
+  },
+  "keywords": [
+    "jquery",
+    "datepicker",
+    "weekpicker",
+    "week"
+  ],
+  "author": {
+    "name": "Prezent Internet B.V.",
+    "email": "info@prezent.nl"
+  },
+  "contributors": [
+    {
+      "name": "Sander Marechal",
+      "email": "s.marechal@jejik.com"
+    },
+    {
+      "name": "Zsolt Kovács",
+      "email": "k.zsolt@live.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prezent/jquery-weekpicker/issues"
+  },
+  "homepage": "https://github.com/Prezent/jquery-weekpicker#readme",
+  "dependencies": {
+    "jquery-ui": "^1.10"
+  }
+}
